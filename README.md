@@ -1,4 +1,6 @@
-# gesture-control-demo
+# Gesture Control Demonstration
+All the code in this repository are taken from the Princeton University Robotics Club Drone Team repository: https://github.com/princeton-robotics-club/Drone-Team.
+
 Demonstrates gesture control algorithms via laptop webcam. Run `GestureControlDemo.py` to adjust your laptop's screen brightness with your hand gestures. Pinch your index finger and your thumb close together to reduce your screen brightness, and vice versa. 
 
 Run the following instructions to clone this repository and run a gesture control algorithm via your laptop webcam:
